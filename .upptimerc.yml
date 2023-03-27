@@ -34,29 +34,33 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration'
 i18n:
-  url: "URL"
-  status: "状态"
-  history: "历史"
-  responseTime: "响应时间"
-  uptime: "正常运行时间"
-  up: "🟩 正常"
-  degraded: "🟨 性能下降"
-  down: "🟥 停机"
-  responseTimeGraphAlt: "响应时间图"
-  ms: "毫秒"
-  responseTimeDay: "近24小时响应时间"
-  responseTimeWeek: "近1周响应时间"
-  responseTimeMonth: "近1个月响应时间"
-  responseTimeYear: "近1年响应时间"
-  uptimeDay: "近24小时在线状态"
-  uptimeWeek: "近1周在线状态"
-  uptimeMonth: "近1个月在线状态"
-  uptimeYear: "近1年在线状态"
-  liveStatus: "在线状态"
-  liveStatusHtmlComment: "<!--在线状态-->"
-  allSystemsOperational: "🟩 所有系统正常运行"
-  degradedPerformance: "🟨 部分系统性能下降"
-  completeOutage: "🟥 全部系统不正常"
-  partialOutage: "🟧 部分系统不正常"
+  activeIncidents: 活跃的事件
+  allSystemsOperational: 所有系统都在运行
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 在$DATE打开$POSTS
+  incidentTitle: 事件 $NUMBER 详情
+  incidentDetails: 事件 详情
+  incidentFixed: 需要修复
+  incidentOngoing: 正在进行中
+  incidentOpenedAt: 打开于
+  incidentClosedAt: 关闭于
+  incidentViewOnGitHub: 在GitHub上查看和订阅
+  incidentCommentSummary: $AUTHOR于$DATE发布
+  incidentBack: ← 返回到所有事件
+  pastIncidents: 过去的事故
+  pastIncidentsResolved: 在$MINUTES时解决了$POSTS的问题
+  liveStatus: 在线状态
+  overallUptime: "总正常运行时间: $UPTIME"
+  overallUptimeTitle: 总正常运行时间
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7天平均响应时间
+  responseTimeMs: 平均响应时间 (ms)
+  up: 正常
+  down: 停机
+  degraded: 性能下降
+  ms: ms
+  loading: 加载中...
+  navGitHub: GitHub
 
 
