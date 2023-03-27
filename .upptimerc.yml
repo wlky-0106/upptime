@@ -44,7 +44,6 @@ i18n:
   down: "🟥 Down"
   responseTimeGraphAlt: "Response time graph"
   ms: "ms"
-  responseTime: "Response time"
   responseTimeDay: "24-hour response time"
   responseTimeWeek: "7-day response time"
   responseTimeMonth: "30-day response time"
