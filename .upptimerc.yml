@@ -23,8 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://nekoz.top/img/favico.png
   name: Nekoz Studio Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "本页面是Nekoz Studio的系统监测页面"
   navbar:
     - title: Status
       href: /
@@ -62,7 +61,7 @@ i18n:
   ms: ms
   loading: 加载中...
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Copyright© 2021 - 2023 Nekoz Studio 
   rateLimitExceededTitle: 超出速率限制
   rateLimitExceededIntro: 你已经超过了一小时内可以完成的请求数量，所以你必须等待才能再次访问这个网站。另外，你可以添加一个GitHub个人访问令牌来继续使用这个网站。
   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
