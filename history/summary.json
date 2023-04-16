@@ -76,9 +76,9 @@
     "url": "https://learner.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/learner.eu.org.ico",
     "slug": "ofs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 323,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "Nekoz Upptime",
