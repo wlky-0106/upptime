@@ -76,19 +76,19 @@
     "url": "https://learner.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/learner.eu.org.ico",
     "slug": "ofs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 163,
-    "timeWeek": 323,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "87.55%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 280,
+    "timeDay": 282,
+    "timeWeek": 333,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-04-16": 0
+      "2023-04-16": 179
     }
   },
   {
