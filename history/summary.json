@@ -40,18 +40,20 @@
     "url": "https://twikoo.nekoz.top/",
     "icon": "https://icons.duckduckgo.com/ip3/twikoo.nekoz.top.ico",
     "slug": "twikoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2283,
-    "timeDay": 2175,
-    "timeWeek": 2509,
-    "timeMonth": 2239,
-    "timeYear": 2283,
-    "dailyMinutesDown": {}
+    "time": 2340,
+    "timeDay": 4726,
+    "timeWeek": 3105,
+    "timeMonth": 2397,
+    "timeYear": 2340,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Nekoz Studio Lark",
