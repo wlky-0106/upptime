@@ -22,9 +22,9 @@
     "url": "https://nekoz.top",
     "icon": "https://icons.duckduckgo.com/ip3/nekoz.top.ico",
     "slug": "nekoz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 356,
     "timeMonth": 339,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "Twikoo评论",
@@ -99,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.nekoz.top.ico",
     "slug": "nekoz-upptime",
     "status": "down",
-    "uptime": "80.97%",
+    "uptime": "80.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.97%",
+    "uptimeYear": "80.82%",
     "time": 301,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-09-24": 59,
+      "2023-09-24": 557,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
