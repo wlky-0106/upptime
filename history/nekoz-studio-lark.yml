@@ -1,7 +1,7 @@
 url: https://nekozstudio.larksuite.com/
-status: up
-code: 200
-responseTime: 1241
-lastUpdated: 2023-11-18T23:15:08.888Z
+status: down
+code: 429
+responseTime: 778
+lastUpdated: 2023-11-19T06:23:01.602Z
 startTime: 2023-03-27T17:54:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
