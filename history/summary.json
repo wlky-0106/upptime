@@ -13,7 +13,7 @@
     "time": 374,
     "timeDay": 319,
     "timeWeek": 282,
-    "timeMonth": 307,
+    "timeMonth": 305,
     "timeYear": 374,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 342,
     "timeDay": 358,
     "timeWeek": 305,
-    "timeMonth": 335,
+    "timeMonth": 334,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2023-10-30": 16,
@@ -79,7 +79,7 @@
     "time": 2250,
     "timeDay": 2332,
     "timeWeek": 2334,
-    "timeMonth": 2331,
+    "timeMonth": 2396,
     "timeYear": 2250,
     "dailyMinutesDown": {
       "2023-06-13": 88
@@ -92,17 +92,17 @@
     "slug": "nekoz-studio-lark",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "99.28%",
     "time": 1122,
     "timeDay": 1113,
     "timeWeek": 1092,
-    "timeMonth": 1156,
+    "timeMonth": 1147,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-11-30": 62,
+      "2023-11-30": 48,
       "2023-11-28": 20,
       "2023-11-27": 19,
       "2023-11-26": 111,
@@ -145,7 +145,7 @@
       "2023-10-17": 2,
       "2023-10-16": 83,
       "2023-10-15": 90,
-      "2023-10-14": 42
+      "2023-10-14": 66
     }
   },
   {
@@ -175,18 +175,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.nekoz.top.ico",
     "slug": "nekoz-upptime",
     "status": "down",
-    "uptime": "58.81%",
+    "uptime": "58.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "58.81%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "58.79%",
     "time": 301,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-11-30": 1413,
+      "2023-12-01": 65,
+      "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
