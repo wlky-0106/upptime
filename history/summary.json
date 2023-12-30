@@ -90,17 +90,17 @@
     "url": "https://nekozstudio.larksuite.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nekozstudio.larksuite.com.ico",
     "slug": "nekoz-studio-lark",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.25%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "98.24%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "99.37%",
-    "time": 1137,
-    "timeDay": 1028,
-    "timeWeek": 1184,
-    "timeMonth": 1192,
-    "timeYear": 1137,
+    "uptimeYear": "99.38%",
+    "time": 1136,
+    "timeDay": 974,
+    "timeWeek": 1174,
+    "timeMonth": 1189,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2023-12-30": 25,
       "2023-12-28": 24,
@@ -153,7 +153,7 @@
       "2023-11-02": 50,
       "2023-11-01": 20,
       "2023-10-30": 44,
-      "2023-10-29": 77
+      "2023-10-29": 56
     }
   },
   {
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-30": 379,
+      "2023-12-30": 418,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
