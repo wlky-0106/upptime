@@ -22,9 +22,9 @@
     "url": "https://nekoz.top",
     "icon": "https://icons.duckduckgo.com/ip3/nekoz.top.ico",
     "slug": "nekoz",
-    "status": "up",
+    "status": "down",
     "uptime": "90.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.59%",
@@ -34,6 +34,7 @@
     "timeMonth": 354,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2024-01-12": 0,
       "2023-10-30": 16,
       "2023-10-21": 1096,
       "2023-10-20": 1440,
@@ -92,17 +93,17 @@
     "slug": "nekoz-studio-lark",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "97.28%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.40%",
     "time": 1141,
-    "timeDay": 1123,
+    "timeDay": 1141,
     "timeWeek": 1115,
     "timeMonth": 1187,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2024-01-12": 67,
+      "2024-01-12": 54,
       "2024-01-11": 40,
       "2024-01-10": 115,
       "2024-01-08": 76,
@@ -151,7 +152,8 @@
       "2023-11-14": 73,
       "2023-11-13": 20,
       "2023-11-12": 26,
-      "2023-11-11": 19
+      "2023-11-11": 19,
+      "2023-11-10": 25
     }
   },
   {
@@ -192,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-01-12": 1283,
+      "2024-01-12": 1309,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
