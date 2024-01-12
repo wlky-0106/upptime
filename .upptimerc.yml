@@ -5,16 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Nekoz Studio
     url: https://home.nekoz.top
-  - name: Nekoz主页
-    url: https://nekoz.top
-  - name: Twikoo评论
-    url: https://twikoo.nekoz.top/
-  - name: Nekoz Studio Lark
-    url: https://nekozstudio.larksuite.com/
-  - name: 开源字体分享｜OFS
-    url: https://learner.eu.org
-  - name: Nekoz Upptime
-    url: https://upptime.nekoz.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
