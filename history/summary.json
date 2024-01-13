@@ -4,7 +4,7 @@
     "url": "https://home.nekoz.top",
     "icon": "https://icons.duckduckgo.com/ip3/home.nekoz.top.ico",
     "slug": "nekoz-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 313,
     "timeMonth": 304,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   }
 ]
