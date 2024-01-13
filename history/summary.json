@@ -6,9 +6,9 @@
     "slug": "nekoz-studio",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 300,
@@ -16,7 +16,7 @@
     "timeMonth": 304,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-01-13": 0
+      "2024-01-13": 3
     }
   }
 ]
