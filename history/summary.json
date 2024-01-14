@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.nekoz.top.ico",
     "slug": "nekoz-studio",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.66%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.63%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "99.66%",
     "time": 364,
-    "timeDay": 300,
+    "timeDay": 0,
     "timeWeek": 313,
-    "timeMonth": 304,
+    "timeMonth": 306,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-01-13": 3
+      "2024-01-14": 65,
+      "2024-01-13": 1383
     }
   }
 ]
